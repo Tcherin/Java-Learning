@@ -1,0 +1,8 @@
+Number Format
+
+useful NumberFormat Methods
+
+.format() = returns a value in whichever format instance has been chained to NumberFormat.
+.getCurrencyInstance() = returns a string representation of the input as a currency, e.g 12345.891 becomes $1,234,567.89.
+.getPercentageInstance() = returns a string representation of the input as a percentage, e.g 0.1 becomes 10%.
+

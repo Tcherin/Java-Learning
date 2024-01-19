@@ -1,0 +1,8 @@
+Arrays
+
+Useful Array Methods
+
+.length = returns the length of an array, or the number of elements within an array.
+.toString = Presents an array as a string when logged to the console, rather than as a memory address.
+.deepToString = Presents a two-dimensional array as a string when logged to the console.
+.sort = organises elements into ascending order e.g 132 becomes 123, cab becomes abc.

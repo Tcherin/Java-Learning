@@ -1,0 +1,11 @@
+Math
+
+useful Math methods
+
+Math.round() = rounds a floating point number to a whole number
+Math.ceil() = returns the smallest integer that is greater than or equal to the argument passed in, e.g 1.1 becomes 2.
+Math.floor() = returns the largest integer that is smaller than or equal to the argument passed in, e.g 1.1 becomes 1.
+Math.max() = returns the greater of two values.
+Math.min() = returns the lesser of two values.
+math.random() = generates a random number between 0 and 1.
+Math.pow() = returns the value of a base raised to a power.

@@ -1,0 +1,19 @@
+
+Strings
+
+
+
+Useful String Methods
+
+.equals() = compares one string with another to see if they are the same(alternative to '==')
+.startsWith() = returns the first letter in a string.
+.endsWith() = returns the last letter in a string.
+.length() = returns the number of characters in a string.
+.indexOf() = returns the first occurrence of whatever character is passed in.
+.replace() = replaces one or more characters with whatever is passed in.
+.toLowerCase() = changes any uppercase characters in string to lowercase.
+.toUppercase() = changes any uppercase characters in string to uppercase.
+.trim() = removes any whitespace at the beginning or end of a string.
+
+
+
